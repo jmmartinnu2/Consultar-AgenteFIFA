@@ -12,7 +12,7 @@ def cargar_datos_desde_archivo(file_path):
         return None
 
 def mostrar_datos_agentes(datos):
-    st.title("Agentes FIFA con licencia oficial")
+    st.title("Datos de Agentes")
     if datos:
         agentes_data = {
             'Nombre': [f"{agente['firstName']} {agente['lastName']}" for agente in datos['content']],
@@ -36,13 +36,14 @@ def mostrar_datos_agentes(datos):
         df_display = df_agentes.iloc[start_idx:end_idx]
         st.write(df_display)
 
+
 # Banner promocional
 banner_style = """
     <div style="background-color: #f1c40f; padding: 10px; border-radius: 5px; margin-bottom: 20px; text-align: center;">
-        <h3 style="color: black;">¡Oferta Especial!</h3>
-        <p style="color: black;">Plataforma FIFA de exámenes ahora con un descuento anual de 80€</p>
+        <h3 style="color: black;">📢 ¿Quieres aprobar el próximo Examen de Agente FIFA?</h3>
+        <p style="color: black; font-weight: bold;">🎯 Prepárate con más de 450 preguntas oficiales.</p>
         <a href="https://examenes-agente-fifa.streamlit.app/" target="_blank" style="color: #2980b9; text-decoration: none; font-weight: bold;">
-            Haz clic aquí para más información
+            📝 Entra y haz una prueba de Examen oficial
         </a>
     </div>
 """
