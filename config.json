@@ -6842,6 +6842,15 @@
         },
         {
             "firstName": "Arkadiusz",
+            "lastName": "Głowacki",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7800",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1GYXZG8"
+        },
+        {
+            "firstName": "Arkadiusz",
             "lastName": "Klimas",
             "licenseStatus": "VALID",
             "licenseNumber": "202308-3251",
@@ -39043,6 +39052,15 @@
             "fifaId": "1N25S44"
         },
         {
+            "firstName": "Levis",
+            "lastName": "Irambona",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7801",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PJ7WX8"
+        },
+        {
             "firstName": "Liam",
             "lastName": "Luke",
             "licenseStatus": "VALID",
@@ -48338,6 +48356,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PDHAV1"
+        },
+        {
+            "firstName": "Mokhtar bachir",
+            "lastName": "BEN MOHAMED",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7802",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PJ84J3"
         },
         {
             "firstName": "Mondahan Faget Landry Dieudonné",
@@ -69876,6 +69903,6 @@
             "fifaId": "1PFNUQ3"
         }
     ],
-    "totalElements": 7764,
+    "totalElements": 7767,
     "totalPages": 1
 }
