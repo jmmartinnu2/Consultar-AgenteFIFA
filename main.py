@@ -12,7 +12,7 @@ def cargar_datos_desde_archivo(file_path):
         return None
 
 def mostrar_datos_agentes(datos):
-    st.title("Datos de Agentes")
+    st.title("Agentes FIFA con licencia oficial")
     if datos:
         agentes_data = {
             'Nombre': [f"{agente['firstName']} {agente['lastName']}" for agente in datos['content']],
@@ -36,7 +36,17 @@ def mostrar_datos_agentes(datos):
         df_display = df_agentes.iloc[start_idx:end_idx]
         st.write(df_display)
 
-st.title("FIFA Agent App")
+# Banner promocional
+banner_style = """
+    <div style="background-color: #f1c40f; padding: 10px; border-radius: 5px; margin-bottom: 20px; text-align: center;">
+        <h3 style="color: black;">¡Oferta Especial!</h3>
+        <p style="color: black;">Plataforma FIFA de exámenes ahora con un descuento anual de 80€</p>
+        <a href="https://examenes-agente-fifa.streamlit.app/" target="_blank" style="color: #2980b9; text-decoration: none; font-weight: bold;">
+            Haz clic aquí para más información
+        </a>
+    </div>
+"""
+st.markdown(banner_style, unsafe_allow_html=True)
 
 st.sidebar.title("Navegación")
 st.sidebar.subheader("Seleccione una página")
