@@ -140,8 +140,8 @@
             "lastName": "Abubakr",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7363",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 16-07-2024",
             "fifaId": "1PFRF57"
         },
         {
@@ -212,8 +212,8 @@
             "lastName": "Afifi",
             "licenseStatus": "VALID",
             "licenseNumber": "202306-2513",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
             "fifaId": "1N229I5"
         },
         {
@@ -910,6 +910,24 @@
             "fifaId": "1N20C90"
         },
         {
+            "firstName": "ADEWALE",
+            "lastName": "BAJOMO",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7951",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
+            "fifaId": "1PKUA95"
+        },
+        {
+            "firstName": "Adewole",
+            "lastName": "Adebayo",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7885",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKC9F9"
+        },
+        {
             "firstName": "Adhiraj",
             "lastName": "Deshmukh",
             "licenseStatus": "VALID",
@@ -1007,6 +1025,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PDEX23"
+        },
+        {
+            "firstName": "Adnan",
+            "lastName": "Salifu",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7958",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
+            "fifaId": "15USUF8"
         },
         {
             "firstName": "Adolfo",
@@ -1589,8 +1616,8 @@
             "lastName": "Kadiri",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7168",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1PEC6J2"
         },
         {
@@ -1994,8 +2021,8 @@
             "lastName": "Botines Rates",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-1685",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1N214W4"
         },
         {
@@ -2264,8 +2291,8 @@
             "lastName": "Montero Maqueda",
             "licenseStatus": "VALID",
             "licenseNumber": "202312-5551",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1GSPWD8"
         },
         {
@@ -2339,6 +2366,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N25B27"
+        },
+        {
+            "firstName": "Alejandro",
+            "lastName": "Cormick",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7916",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFNQ5"
         },
         {
             "firstName": "Alejandro",
@@ -2503,6 +2539,15 @@
             "fifaId": "1DYNUV7"
         },
         {
+            "firstName": "ALEKSANDR",
+            "lastName": "BELOZEROV",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7897",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFA05"
+        },
+        {
             "firstName": "Aleksandr",
             "lastName": "Lyashenko",
             "licenseStatus": "VALID",
@@ -2510,6 +2555,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 12-12-2023",
             "fifaId": "1N25BS0"
+        },
+        {
+            "firstName": "Aleksandr",
+            "lastName": "Ivanov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7898",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFAR0"
         },
         {
             "firstName": "Aleksandra",
@@ -2561,8 +2615,8 @@
             "lastName": "Šomić",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7643",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1PHL205"
         },
         {
@@ -3583,6 +3637,15 @@
             "fifaId": "1DAI4Z1"
         },
         {
+            "firstName": "Alhoussein",
+            "lastName": "Diallo",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7976",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLAZB4"
+        },
+        {
             "firstName": "Ali",
             "lastName": "TRAORE",
             "licenseStatus": "VALID",
@@ -3758,9 +3821,18 @@
             "lastName": "PEREZ SANCHEZ",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6544",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 16-07-2024",
+            "fifaId": "1PDHLJ7"
+        },
+        {
+            "firstName": "Alim",
+            "lastName": "Mikheev",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7943",
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
-            "fifaId": "1PDHLJ7"
+            "fifaId": "1PKR2F7"
         },
         {
             "firstName": "Alimamy",
@@ -3866,8 +3938,8 @@
             "lastName": "Yunusov",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7487",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1PGHF86"
         },
         {
@@ -3887,6 +3959,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 22-06-2024",
             "fifaId": "1PEEB08"
+        },
+        {
+            "firstName": "Allan",
+            "lastName": "Vrillac",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7889",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1FVTA70"
         },
         {
             "firstName": "Allan",
@@ -4199,8 +4280,8 @@
             "lastName": "BA",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6871",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1PDRR11"
         },
         {
@@ -4274,6 +4355,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 17-10-2023",
             "fifaId": "1N24UY1"
+        },
+        {
+            "firstName": "Aman",
+            "lastName": "Kapoor",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7953",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKWFP1"
         },
         {
             "firstName": "AMANDINE",
@@ -4445,6 +4535,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1KWVB62"
+        },
+        {
+            "firstName": "Amir",
+            "lastName": "Hashemi",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7905",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFF40"
         },
         {
             "firstName": "Amir",
@@ -4643,6 +4742,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N254B9"
+        },
+        {
+            "firstName": "Anastasia",
+            "lastName": "Kharlanova",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7892",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKF720"
         },
         {
             "firstName": "Anastasios",
@@ -5072,8 +5180,8 @@
             "lastName": "Nadin",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7680",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1PHTWW7"
         },
         {
@@ -5108,8 +5216,8 @@
             "lastName": "Vryonidis",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-1879",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1N21EG5"
         },
         {
@@ -5201,6 +5309,24 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 18-04-2024",
             "fifaId": "1N20FY3"
+        },
+        {
+            "firstName": "Andrei",
+            "lastName": "Aleksandrov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7928",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
+            "fifaId": "1PKK4Y7"
+        },
+        {
+            "firstName": "Andrei Iourevitch",
+            "lastName": "Losiouk",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7939",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKLCC6"
         },
         {
             "firstName": "Andrej",
@@ -5770,6 +5896,15 @@
             "fifaId": "1NA01I6"
         },
         {
+            "firstName": "Anna",
+            "lastName": "Smirnova",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7926",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKK425"
+        },
+        {
             "firstName": "Anna-Maria",
             "lastName": "Riemer",
             "licenseStatus": "VALID",
@@ -6020,6 +6155,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 28-05-2024",
             "fifaId": "1N22822"
+        },
+        {
+            "firstName": "Anto",
+            "lastName": "Franjic",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7904",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1FXUGL1"
         },
         {
             "firstName": "Antoine",
@@ -6530,8 +6674,8 @@
             "lastName": "MUGICA MIGUELIZ",
             "licenseStatus": "VALID",
             "licenseNumber": "202307-2742",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 16-07-2024",
             "fifaId": "1N22KK6"
         },
         {
@@ -6782,8 +6926,8 @@
             "lastName": "molfino",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7609",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PH5AB4"
         },
         {
@@ -6902,6 +7046,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 08-11-2023",
             "fifaId": "1N24RG2"
+        },
+        {
+            "firstName": "Arkadiy",
+            "lastName": "Galperin",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7893",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "10HXYL7"
         },
         {
             "firstName": "Arlette Pauline Marianne",
@@ -7061,8 +7214,8 @@
             "lastName": "Lourenço de Medeiros Filho",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-3406",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N23HZ7"
         },
         {
@@ -7109,6 +7262,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N20KD2"
+        },
+        {
+            "firstName": "Artem",
+            "lastName": "Anuchkin",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7906",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFH15"
         },
         {
             "firstName": "Arthur",
@@ -7345,6 +7507,15 @@
             "fifaId": "1PDHHZ5"
         },
         {
+            "firstName": "Asker",
+            "lastName": "Kibizov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7908",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFHZ1"
+        },
+        {
             "firstName": "Asmaa",
             "lastName": "Mahmoud",
             "licenseStatus": "VALID",
@@ -7475,8 +7646,8 @@
             "lastName": "Nishimura",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-1215",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N20F69"
         },
         {
@@ -7550,6 +7721,24 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 26-10-2023",
             "fifaId": "1EIKQS2"
+        },
+        {
+            "firstName": "Augustine",
+            "lastName": "Ifebi",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7956",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKWJX0"
+        },
+        {
+            "firstName": "Augusto",
+            "lastName": "Vantomme",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7886",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKCBE0"
         },
         {
             "firstName": "augusto",
@@ -8375,8 +8564,8 @@
             "lastName": "Kaddour aissa",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6072",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1ET7L63"
         },
         {
@@ -8582,8 +8771,8 @@
             "lastName": "Velez Pau",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-4401",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1N254X1"
         },
         {
@@ -8600,8 +8789,8 @@
             "lastName": "Weber",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-1578",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1N21065"
         },
         {
@@ -9221,8 +9410,8 @@
             "lastName": "Ostojic",
             "licenseStatus": "VALID",
             "licenseNumber": "202310-4664",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1N25GG7"
         },
         {
@@ -9395,6 +9584,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N20AC8"
+        },
+        {
+            "firstName": "Borut",
+            "lastName": "Lakner",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7963",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL22J0"
         },
         {
             "firstName": "Borys",
@@ -10724,8 +10922,8 @@
             "lastName": "CINTRA",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7063",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1PE4Q61"
         },
         {
@@ -11611,6 +11809,15 @@
             "fifaId": "1PDJ4W8"
         },
         {
+            "firstName": "cheick oumar",
+            "lastName": "sylla",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7941",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKLHJ3"
+        },
+        {
             "firstName": "Cheick Oumar Tidiane",
             "lastName": "Soumaré",
             "licenseStatus": "VALID",
@@ -11645,6 +11852,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N238R9"
+        },
+        {
+            "firstName": "Chi",
+            "lastName": "Zhang",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7922",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKJSQ3"
         },
         {
             "firstName": "Chi Kyun",
@@ -11699,6 +11915,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 09-06-2024",
             "fifaId": "1PF3628"
+        },
+        {
+            "firstName": "Chimezie Cyprain",
+            "lastName": "Emenike",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7945",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKRCM3"
         },
         {
             "firstName": "Chimwemwe",
@@ -12197,6 +12422,15 @@
         },
         {
             "firstName": "Christopher",
+            "lastName": "Kinnear",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7974",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1JSRRZ0"
+        },
+        {
+            "firstName": "Christopher",
             "lastName": "Mendes",
             "licenseStatus": "VALID",
             "licenseNumber": "202307-3085",
@@ -12236,8 +12470,8 @@
             "lastName": "Peralta",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-1399",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1N20RA0"
         },
         {
@@ -12293,6 +12527,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 03-10-2023",
             "fifaId": "1N229X6"
+        },
+        {
+            "firstName": "Christopher",
+            "lastName": "Worsey",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7933",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKKV25"
         },
         {
             "firstName": "Christopher",
@@ -12448,6 +12691,15 @@
             "fifaId": "1N21XB4"
         },
         {
+            "firstName": "Chukwuma Eleanya",
+            "lastName": "Onuoha",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7883",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKB115"
+        },
+        {
             "firstName": "Chungwon",
             "lastName": "So",
             "licenseStatus": "VALID",
@@ -12497,8 +12749,8 @@
             "lastName": "Eloiza",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-4172",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1N24WI6"
         },
         {
@@ -12524,8 +12776,8 @@
             "lastName": "Bracamonte",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7628",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PESBN2"
         },
         {
@@ -13166,6 +13418,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1NJWX93"
+        },
+        {
+            "firstName": "Cristina Mencía",
+            "lastName": "Casanova Castro",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7917",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFP28"
         },
         {
             "firstName": "Cristóbal Antonio",
@@ -14090,8 +14351,8 @@
             "lastName": "López  Canca",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7433",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1PEILV4"
         },
         {
@@ -14363,6 +14624,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1HAXH98"
+        },
+        {
+            "firstName": "Danila",
+            "lastName": "Smolski",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7894",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
+            "fifaId": "1PKF903"
         },
         {
             "firstName": "Danilo",
@@ -15584,8 +15854,8 @@
             "lastName": "Chylaszek",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7176",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1E1FZP3"
         },
         {
@@ -15737,8 +16007,8 @@
             "lastName": "Pajkic",
             "licenseStatus": "VALID",
             "licenseNumber": "202402-5789",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1NMWJQ3"
         },
         {
@@ -15884,6 +16154,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 16-10-2023",
             "fifaId": "1N24RZ5"
+        },
+        {
+            "firstName": "Denis",
+            "lastName": "Amadak",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7923",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKJY93"
         },
         {
             "firstName": "Deniss",
@@ -16178,8 +16457,8 @@
             "lastName": "Solarte Montoya",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6515",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1470044"
         },
         {
@@ -16271,6 +16550,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 20-06-2024",
             "fifaId": "1PDFX84"
+        },
+        {
+            "firstName": "DIEGO",
+            "lastName": "VARELA VÁZQUEZ",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7948",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKS757"
         },
         {
             "firstName": "Diego",
@@ -16997,8 +17285,8 @@
             "lastName": "Malango Dyombe",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6882",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
             "fifaId": "1PDSL03"
         },
         {
@@ -17321,8 +17609,8 @@
             "lastName": "de Almeida Fernandes",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-1438",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 20-07-2024",
             "fifaId": "1N20SW3"
         },
         {
@@ -17958,7 +18246,7 @@
         {
             "firstName": "EDUARDO",
             "lastName": "MUÑOZ SIMÓ",
-            "licenseStatus": "VALID",
+            "licenseStatus": "SUSPENDED",
             "licenseNumber": "202311-5370",
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
@@ -18023,8 +18311,8 @@
             "lastName": "Jofe",
             "licenseStatus": "VALID",
             "licenseNumber": "202312-5621",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 20-07-2024",
             "fifaId": "1NB49Q3"
         },
         {
@@ -18287,6 +18575,24 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 16-06-2024",
             "fifaId": "1PDHDA9"
+        },
+        {
+            "firstName": "Elena",
+            "lastName": "El-Abudi",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7914",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFKE5"
+        },
+        {
+            "firstName": "Elena",
+            "lastName": "Rakhmatullina",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7925",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKK2W7"
         },
         {
             "firstName": "Eleonora",
@@ -18631,6 +18937,15 @@
             "fifaId": "1N25CN0"
         },
         {
+            "firstName": "elvis",
+            "lastName": "garcia barrera",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7930",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKK9N3"
+        },
+        {
             "firstName": "Emad",
             "lastName": "Khadiar",
             "licenseStatus": "VALID",
@@ -18935,6 +19250,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 21-02-2024",
             "fifaId": "13JR2Z8"
+        },
+        {
+            "firstName": "Emmanuel Omar",
+            "lastName": "Vargas Martin",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7973",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "12D2ZG7"
         },
         {
             "firstName": "Emrah",
@@ -19495,6 +19819,15 @@
             "fifaId": "1PDF8L8"
         },
         {
+            "firstName": "Ernest",
+            "lastName": "Bayi",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7915",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFNI2"
+        },
+        {
             "firstName": "Ernesto",
             "lastName": "Gamio",
             "licenseStatus": "VALID",
@@ -19742,8 +20075,8 @@
             "lastName": "Yoon",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-405",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 16-07-2024",
             "fifaId": "1N1Z681"
         },
         {
@@ -19808,6 +20141,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 04-10-2023",
             "fifaId": "1N1ZUI0"
+        },
+        {
+            "firstName": "Evgenii",
+            "lastName": "Gribkov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7937",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKLAZ8"
         },
         {
             "firstName": "Evghenii",
@@ -20084,8 +20426,8 @@
             "lastName": "Stevic",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-1881",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1BZVEW2"
         },
         {
@@ -20855,6 +21197,15 @@
         },
         {
             "firstName": "Felipe",
+            "lastName": "Alvarez",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7972",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL8842"
+        },
+        {
+            "firstName": "Felipe",
             "lastName": "Furtado",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-3617",
@@ -21205,6 +21556,15 @@
             "fifaId": "1N24RU1"
         },
         {
+            "firstName": "FERNANDO",
+            "lastName": "CASTRO GARCIA",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7918",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKGCU9"
+        },
+        {
             "firstName": "Fernando",
             "lastName": "Solanas Gómez",
             "licenseStatus": "VALID",
@@ -21461,8 +21821,8 @@
             "lastName": "Graça",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-3727",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1N244L8"
         },
         {
@@ -21482,6 +21842,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PI6X44"
+        },
+        {
+            "firstName": "Filippo",
+            "lastName": "Pasini",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7964",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL2Q26"
         },
         {
             "firstName": "Filippo",
@@ -21563,6 +21932,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N22Z58"
+        },
+        {
+            "firstName": "Finley",
+            "lastName": "Percival Smith",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7969",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL6HC5"
         },
         {
             "firstName": "Firat",
@@ -21722,8 +22100,8 @@
             "lastName": "TOUBAL",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6437",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
             "fifaId": "1PDGNL6"
         },
         {
@@ -22046,8 +22424,8 @@
             "lastName": "Soares",
             "licenseStatus": "VALID",
             "licenseNumber": "202310-4635",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1N25FC4"
         },
         {
@@ -22406,8 +22784,8 @@
             "lastName": "SERY",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-4420",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
             "fifaId": "1N255Q2"
         },
         {
@@ -22991,8 +23369,8 @@
             "lastName": "Gjerde",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7014",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1PE2A14"
         },
         {
@@ -23138,6 +23516,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N25233"
+        },
+        {
+            "firstName": "Gabriele",
+            "lastName": "Porto",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7962",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL1JR4"
         },
         {
             "firstName": "Gabriele Giovanni",
@@ -23513,8 +23900,8 @@
             "lastName": "Samuel",
             "licenseStatus": "VALID",
             "licenseNumber": "202407-7816",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PJB2E6"
         },
         {
@@ -25021,6 +25408,15 @@
             "fifaId": "1N8MV50"
         },
         {
+            "firstName": "Gogi",
+            "lastName": "Shoniia",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7907",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "16G0KQ7"
+        },
+        {
             "firstName": "Gogita",
             "lastName": "Tolordava",
             "licenseStatus": "VALID",
@@ -25502,8 +25898,8 @@
             "lastName": "Gallovich",
             "licenseStatus": "VALID",
             "licenseNumber": "202308-3192",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1J56KB5"
         },
         {
@@ -25664,8 +26060,8 @@
             "lastName": "Aymerich Cabrera",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7530",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1HPQ250"
         },
         {
@@ -25844,8 +26240,8 @@
             "lastName": "Litmanovich",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7620",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PH8S83"
         },
         {
@@ -25943,8 +26339,8 @@
             "lastName": "Tolmarsh",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-2106",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N21PH1"
         },
         {
@@ -26198,6 +26594,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PDE2F1"
+        },
+        {
+            "firstName": "Hamed",
+            "lastName": "Ghadiri",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7909",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFIE4"
         },
         {
             "firstName": "Hamidreza",
@@ -27892,6 +28297,15 @@
             "fifaId": "1N230T1"
         },
         {
+            "firstName": "Hwa Young",
+            "lastName": "Kim",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7975",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLASN6"
+        },
+        {
             "firstName": "HYDEN",
             "lastName": "BANDA",
             "licenseStatus": "VALID",
@@ -28094,8 +28508,8 @@
             "lastName": "Polat",
             "licenseStatus": "VALID",
             "licenseNumber": "202310-5018",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N25XN3"
         },
         {
@@ -28265,8 +28679,8 @@
             "lastName": "Baldé",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-6973",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PDZB00"
         },
         {
@@ -28513,6 +28927,15 @@
             "fifaId": "1N213U4"
         },
         {
+            "firstName": "Ihor",
+            "lastName": "Brovko",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7985",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "195VT29"
+        },
+        {
             "firstName": "Ihsan Burak",
             "lastName": "Tutkuner",
             "licenseStatus": "VALID",
@@ -28637,6 +29060,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 08-01-2024",
             "fifaId": "1N21U12"
+        },
+        {
+            "firstName": "Ilkka",
+            "lastName": "Liimatainen",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7887",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
+            "fifaId": "10LSKC8"
         },
         {
             "firstName": "ILYASS",
@@ -28844,6 +29276,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N23LN0"
+        },
+        {
+            "firstName": "Irakli",
+            "lastName": "Pirveli",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7965",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL4JB3"
         },
         {
             "firstName": "Iraklis",
@@ -29197,6 +29638,15 @@
             "fifaId": "1PFQW97"
         },
         {
+            "firstName": "Issa",
+            "lastName": "Djeni",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7982",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLEV21"
+        },
+        {
             "firstName": "ISSAM",
             "lastName": "HANTOURI",
             "licenseStatus": "VALID",
@@ -29402,6 +29852,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 30-10-2023",
             "fifaId": "1N22MG9"
+        },
+        {
+            "firstName": "Ivan",
+            "lastName": "Amenitsky",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7938",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKLBI9"
         },
         {
             "firstName": "Iván",
@@ -29692,6 +30151,15 @@
             "fifaId": "1PDE2Y1"
         },
         {
+            "firstName": "Jackson",
+            "lastName": "Austin",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7959",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKYI96"
+        },
+        {
             "firstName": "JACKY",
             "lastName": "MOUYAL",
             "licenseStatus": "VALID",
@@ -29924,6 +30392,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 02-10-2023",
             "fifaId": "1KIZW87"
+        },
+        {
+            "firstName": "Jaime",
+            "lastName": "Sotomayor Neculman",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7952",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKUC54"
         },
         {
             "firstName": "Jaime Celestino",
@@ -30335,8 +30812,8 @@
             "lastName": "Guthrie",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7703",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1PI38D1"
         },
         {
@@ -30536,6 +31013,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 03-10-2023",
             "fifaId": "1N24TL3"
+        },
+        {
+            "firstName": "Jan Bernard",
+            "lastName": "Til",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7978",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLBVI9"
         },
         {
             "firstName": "Jan Hendrikus Marinus",
@@ -30740,8 +31226,8 @@
             "lastName": "Smith",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6454",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1PDGUM5"
         },
         {
@@ -31069,6 +31555,15 @@
             "fifaId": "1PIEGE6"
         },
         {
+            "firstName": "Jean Darwin",
+            "lastName": "Ruiz Contreras",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7931",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKKBA5"
+        },
+        {
             "firstName": "Jean Hugues Legrand",
             "lastName": "Atangana",
             "licenseStatus": "VALID",
@@ -31163,8 +31658,8 @@
             "lastName": "JEAN",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6832",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PDQ610"
         },
         {
@@ -31262,8 +31757,8 @@
             "lastName": "Saunier",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6830",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PDQ0J3"
         },
         {
@@ -31352,8 +31847,8 @@
             "lastName": "LÓPEZ LARA",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7688",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1PHV739"
         },
         {
@@ -31976,6 +32471,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "18M6GR1"
+        },
+        {
+            "firstName": "Jimmy",
+            "lastName": "Da Costa Temporao",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7955",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKWIR3"
         },
         {
             "firstName": "jimmy",
@@ -32855,8 +33359,8 @@
             "lastName": "Okungbowa",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7197",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PEWU28"
         },
         {
@@ -33071,8 +33575,8 @@
             "lastName": "Duffield",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-1876",
-            "authorisedMinors": true,
-            "authorisedMinorsMessage": "as of 14-12-2023",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N21E72"
         },
         {
@@ -34088,8 +34592,8 @@
             "lastName": "Domínguez Becerra",
             "licenseStatus": "VALID",
             "licenseNumber": "202307-3012",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N22Y03"
         },
         {
@@ -34538,8 +35042,8 @@
             "lastName": "Barandiaran Goenaga",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-3743",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 16-10-2023",
             "fifaId": "1IV5MN2"
         },
         {
@@ -34669,6 +35173,15 @@
             "fifaId": "1PFPVF4"
         },
         {
+            "firstName": "Joseph",
+            "lastName": "Mohan",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7940",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKLCM4"
+        },
+        {
             "firstName": "Joseph Aaron",
             "lastName": "Rea",
             "licenseStatus": "VALID",
@@ -34685,6 +35198,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N25391"
+        },
+        {
+            "firstName": "Joseph Obinna",
+            "lastName": "Ekwochi",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7980",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLDDA3"
         },
         {
             "firstName": "Joseph William Osei-Bonsu",
@@ -35020,6 +35542,15 @@
             "fifaId": "1PDSDM2"
         },
         {
+            "firstName": "JUAN CAMILO",
+            "lastName": "GONZALEZ MEDINA",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7944",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 25-07-2024",
+            "fifaId": "1PEN8M0"
+        },
+        {
             "firstName": "Juan Carlos",
             "lastName": "Alonso Moreno",
             "licenseStatus": "VALID",
@@ -35168,8 +35699,8 @@
             "lastName": "Moreno fuertes",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6495",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1HE12Y4"
         },
         {
@@ -35555,8 +36086,8 @@
             "lastName": "Garreton Vergara",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7632",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "10V0P35"
         },
         {
@@ -35744,8 +36275,8 @@
             "lastName": "Kapelan",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-527",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 25-07-2024",
             "fifaId": "13L0G01"
         },
         {
@@ -35906,8 +36437,8 @@
             "lastName": "Pigliacampo",
             "licenseStatus": "VALID",
             "licenseNumber": "202303-275",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "11V7RJ2"
         },
         {
@@ -35987,8 +36518,8 @@
             "lastName": "Kang",
             "licenseStatus": "VALID",
             "licenseNumber": "202306-2269",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1N21WF4"
         },
         {
@@ -36221,8 +36752,8 @@
             "lastName": "Heldens",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6314",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1PDF687"
         },
         {
@@ -36365,8 +36896,8 @@
             "lastName": "Chergui",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6103",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 20-07-2024",
             "fifaId": "1D6WHT5"
         },
         {
@@ -36788,8 +37319,8 @@
             "lastName": "Okada",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-1228",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1N20G40"
         },
         {
@@ -37121,8 +37652,8 @@
             "lastName": "Nakashima-Ochoa",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7374",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 16-07-2024",
             "fifaId": "1PFU868"
         },
         {
@@ -37254,7 +37785,7 @@
         {
             "firstName": "Kevin",
             "lastName": "Konrad",
-            "licenseStatus": "VALID",
+            "licenseStatus": "SUSPENDED",
             "licenseNumber": "202311-5265",
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 22-01-2024",
@@ -37385,6 +37916,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N22ID6"
+        },
+        {
+            "firstName": "keyvan",
+            "lastName": "maleki",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7901",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFCA4"
         },
         {
             "firstName": "Khadim",
@@ -38102,8 +38642,8 @@
             "lastName": "hatta",
             "licenseStatus": "VALID",
             "licenseNumber": "202310-4702",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1N25I66"
         },
         {
@@ -38186,6 +38726,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PDLGC6"
+        },
+        {
+            "firstName": "Kristijan",
+            "lastName": "Sicaja",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7970",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL6ZB8"
         },
         {
             "firstName": "Kristijan",
@@ -38665,6 +39214,15 @@
             "fifaId": "1N1Z8J6"
         },
         {
+            "firstName": "Latifa Iddi",
+            "lastName": "Pagal",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7921",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKJFW2"
+        },
+        {
             "firstName": "Laura",
             "lastName": "Ruiz Martinez",
             "licenseStatus": "VALID",
@@ -39074,8 +39632,8 @@
             "lastName": "Somo Kessack",
             "licenseStatus": "VALID",
             "licenseNumber": "202310-4901",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
             "fifaId": "1N25RM4"
         },
         {
@@ -39416,8 +39974,8 @@
             "lastName": "Irambona",
             "licenseStatus": "VALID",
             "licenseNumber": "202407-7801",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1PJ7WX8"
         },
         {
@@ -39565,6 +40123,15 @@
             "fifaId": "1N21P27"
         },
         {
+            "firstName": "Lindsey",
+            "lastName": "Van Gele",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7957",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1ELV6N1"
+        },
+        {
             "firstName": "Line Geltzer",
             "lastName": "Johansen",
             "licenseStatus": "VALID",
@@ -39641,8 +40208,8 @@
             "lastName": "Kapinga",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7106",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1IUGP20"
         },
         {
@@ -40154,8 +40721,8 @@
             "lastName": "Pastore",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-1349",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1N20NM6"
         },
         {
@@ -40244,8 +40811,8 @@
             "lastName": "Urbani",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-1953",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1N21I91"
         },
         {
@@ -40262,8 +40829,8 @@
             "lastName": "Russo",
             "licenseStatus": "VALID",
             "licenseNumber": "202310-4779",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1N25M73"
         },
         {
@@ -40334,8 +40901,8 @@
             "lastName": "Epple",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6164",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1CHH0R8"
         },
         {
@@ -40598,6 +41165,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N21WE0"
+        },
+        {
+            "firstName": "Lucy",
+            "lastName": "Spaans",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7983",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLFT96"
         },
         {
             "firstName": "Ludivine",
@@ -41176,6 +41752,15 @@
             "fifaId": "1N256L3"
         },
         {
+            "firstName": "Luka",
+            "lastName": "Buntic",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7919",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
+            "fifaId": "1PKJAM3"
+        },
+        {
             "firstName": "Lukas",
             "lastName": "Lins",
             "licenseStatus": "VALID",
@@ -41198,8 +41783,8 @@
             "lastName": "Rošić",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7413",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "123W2J3"
         },
         {
@@ -41288,8 +41873,8 @@
             "lastName": "moore",
             "licenseStatus": "VALID",
             "licenseNumber": "202312-5599",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "10QIF66"
         },
         {
@@ -41372,6 +41957,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 13-06-2024",
             "fifaId": "1N1Z4Z4"
+        },
+        {
+            "firstName": "Lyudvig",
+            "lastName": "Oganyan",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7929",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKK5Z4"
         },
         {
             "firstName": "Maamun",
@@ -41819,8 +42413,8 @@
             "lastName": "SOW",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7082",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1PE5ML7"
         },
         {
@@ -41885,6 +42479,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PE6XB5"
+        },
+        {
+            "firstName": "Mamadou Tanké",
+            "lastName": "DEMBELE",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7888",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
+            "fifaId": "1PKED11"
         },
         {
             "firstName": "Mamby",
@@ -41972,8 +42575,8 @@
             "lastName": "Sarr",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6422",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1PDGFX1"
         },
         {
@@ -42227,6 +42830,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 14-11-2023",
             "fifaId": "1N22XT5"
+        },
+        {
+            "firstName": "Marat",
+            "lastName": "Archegov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7910",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFIR5"
         },
         {
             "firstName": "Maraugi",
@@ -43129,6 +43741,15 @@
             "fifaId": "1NP5070"
         },
         {
+            "firstName": "Marcos",
+            "lastName": "Salcedo García",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7882",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PK9TB0"
+        },
+        {
             "firstName": "MARCOS",
             "lastName": "RUANO SUAREZ",
             "licenseStatus": "VALID",
@@ -43352,6 +43973,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1NRG2K3"
+        },
+        {
+            "firstName": "MARIA CANDELARIA",
+            "lastName": "VAZQUEZ GARCIA",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7932",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKKLI4"
         },
         {
             "firstName": "Maria Dayana",
@@ -43988,8 +44618,8 @@
             "lastName": "Donaghy",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6161",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1PDEHX6"
         },
         {
@@ -44731,6 +45361,15 @@
             "fifaId": "1PDEZC9"
         },
         {
+            "firstName": "Martín Edgardo",
+            "lastName": "Scocco",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7891",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKF460"
+        },
+        {
             "firstName": "Martín Egon",
             "lastName": "Sekler Benavides",
             "licenseStatus": "VALID",
@@ -44870,8 +45509,8 @@
             "lastName": "Miyata",
             "licenseStatus": "VALID",
             "licenseNumber": "202303-215",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 25-07-2024",
             "fifaId": "1N1YXF4"
         },
         {
@@ -46166,8 +46805,8 @@
             "lastName": "Calle Forttes",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-4400",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1N254W3"
         },
         {
@@ -46457,6 +47096,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N25PC5"
+        },
+        {
+            "firstName": "Meïween",
+            "lastName": "ANNOVAZZI",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7934",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKKZN7"
         },
         {
             "firstName": "Mélissa",
@@ -47210,8 +47858,8 @@
             "lastName": "Fioravanti",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-1793",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
             "fifaId": "1N21A40"
         },
         {
@@ -48233,6 +48881,15 @@
         },
         {
             "firstName": "Mohamed",
+            "lastName": "Benchenafi",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7968",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL5GY3"
+        },
+        {
+            "firstName": "Mohamed",
             "lastName": "Bouderah",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6162",
@@ -48461,8 +49118,8 @@
             "lastName": "Sinouh",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-5893",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
             "fifaId": "1PDDLS9"
         },
         {
@@ -48808,6 +49465,15 @@
             "fifaId": "1NF5C34"
         },
         {
+            "firstName": "Mohssin",
+            "lastName": "Hosseini",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7936",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKL5S2"
+        },
+        {
             "firstName": "Moies",
             "lastName": "Trillo Lopez",
             "licenseStatus": "VALID",
@@ -49123,6 +49789,15 @@
             "fifaId": "1PG3245"
         },
         {
+            "firstName": "Mufutau",
+            "lastName": "Adebowale",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7947",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKS1L2"
+        },
+        {
             "firstName": "Muhammad Aminur",
             "lastName": "Rahman",
             "licenseStatus": "VALID",
@@ -49253,8 +49928,8 @@
             "lastName": "Araujo Perez",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6854",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PDQV75"
         },
         {
@@ -50855,8 +51530,8 @@
             "lastName": "Barroso",
             "licenseStatus": "VALID",
             "licenseNumber": "202407-7863",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1PJXQZ8"
         },
         {
@@ -50972,8 +51647,8 @@
             "lastName": "Gencarelli",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6646",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 20-07-2024",
             "fifaId": "12J8829"
         },
         {
@@ -51209,6 +51884,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1EPLUC1"
+        },
+        {
+            "firstName": "Nikola",
+            "lastName": "Jevtic",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7942",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKQYC4"
         },
         {
             "firstName": "Nikola Jægerfeld",
@@ -51569,6 +52253,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N1Z8M9"
+        },
+        {
+            "firstName": "Nshan",
+            "lastName": "Depelian",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7899",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFB55"
         },
         {
             "firstName": "NUENTSA FOHOM",
@@ -52040,6 +52733,15 @@
         },
         {
             "firstName": "Oleg",
+            "lastName": "Mavrenkov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7912",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFJP9"
+        },
+        {
+            "firstName": "Oleg",
             "lastName": "Schelemei",
             "licenseStatus": "VALID",
             "licenseNumber": "202306-2283",
@@ -52399,6 +53101,15 @@
             "fifaId": "1PEFN47"
         },
         {
+            "firstName": "Oluwasegun",
+            "lastName": "Oseni",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7884",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKC3A7"
+        },
+        {
             "firstName": "Oluwaseun David",
             "lastName": "Ademilokun",
             "licenseStatus": "VALID",
@@ -52496,6 +53207,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PHSSL0"
+        },
+        {
+            "firstName": "Omar",
+            "lastName": "ESSAID ELFEYDI",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7954",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKWFT6"
         },
         {
             "firstName": "Omar",
@@ -54815,8 +55535,8 @@
             "lastName": "Da Cruz Lima",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6196",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1PDEL95"
         },
         {
@@ -55601,6 +56321,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 23-04-2024",
             "fifaId": "1N2E0Q1"
+        },
+        {
+            "firstName": "Pietro",
+            "lastName": "Dell’Anno",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7979",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLCI39"
         },
         {
             "firstName": "Pietro",
@@ -56440,6 +57169,15 @@
             "fifaId": "1066L02"
         },
         {
+            "firstName": "Ramannjit",
+            "lastName": "Paul",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7946",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
+            "fifaId": "1PEI0L7"
+        },
+        {
             "firstName": "Rami",
             "lastName": "Saoud",
             "licenseStatus": "VALID",
@@ -56911,8 +57649,8 @@
             "lastName": "Jakova",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-6996",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 20-07-2024",
             "fifaId": "1PE1HU6"
         },
         {
@@ -58612,8 +59350,8 @@
             "lastName": "Severo",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-3655",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N23ZT5"
         },
         {
@@ -59323,8 +60061,8 @@
             "lastName": "Menezes",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7687",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1PHV726"
         },
         {
@@ -59616,6 +60354,15 @@
             "fifaId": "1N26B82"
         },
         {
+            "firstName": "Ryan Nirwan",
+            "lastName": "Sardjoe",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7924",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKK0I7"
+        },
+        {
             "firstName": "Ryan Rodney Stewart",
             "lastName": "Lee",
             "licenseStatus": "VALID",
@@ -59731,6 +60478,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 04-07-2024",
             "fifaId": "1I06FI9"
+        },
+        {
+            "firstName": "Sachim",
+            "lastName": "Karekar",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7966",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL4XD4"
         },
         {
             "firstName": "SADI LUIZ",
@@ -60160,8 +60916,8 @@
             "lastName": "Owusu",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7570",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1PEJUY1"
         },
         {
@@ -60235,6 +60991,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1LMHWV9"
+        },
+        {
+            "firstName": "Samuel Teye-Larbi",
+            "lastName": "Amanor",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7949",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKSG27"
         },
         {
             "firstName": "Samuele",
@@ -60523,6 +61288,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N218P3"
+        },
+        {
+            "firstName": "Santiago",
+            "lastName": "Bas",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7950",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKU765"
         },
         {
             "firstName": "Santiago",
@@ -61258,8 +62032,8 @@
             "lastName": "Cisse",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-1359",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N20P67"
         },
         {
@@ -61450,6 +62224,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1NF5P78"
+        },
+        {
+            "firstName": "Sergei",
+            "lastName": "Grigorev",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7960",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL1B75"
         },
         {
             "firstName": "Sergey",
@@ -61812,6 +62595,15 @@
             "fifaId": "1N22232"
         },
         {
+            "firstName": "Seyed Ali Asghar",
+            "lastName": "Bakhtar",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7911",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFJ80"
+        },
+        {
             "firstName": "Seyedramtin",
             "lastName": "Borhanisabzevar",
             "licenseStatus": "VALID",
@@ -61846,6 +62638,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 31-10-2023",
             "fifaId": "1N1YY55"
+        },
+        {
+            "firstName": "Shahin",
+            "lastName": "Etebari",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7903",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFDQ0"
         },
         {
             "firstName": "Shahrad",
@@ -62057,7 +62858,7 @@
         {
             "firstName": "Shigeki",
             "lastName": "Minagawa",
-            "licenseStatus": "VALID",
+            "licenseStatus": "SUSPENDED",
             "licenseNumber": "202304-480",
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
@@ -62595,6 +63396,15 @@
             "fifaId": "1PFVQP1"
         },
         {
+            "firstName": "Sizwe",
+            "lastName": "Dube",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7967",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL4ZX0"
+        },
+        {
             "firstName": "SKANDER",
             "lastName": "HARRABI",
             "licenseStatus": "VALID",
@@ -63046,12 +63856,30 @@
         },
         {
             "firstName": "Stanislav",
+            "lastName": "Kirgizov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7984",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PLG0J3"
+        },
+        {
+            "firstName": "Stanislav",
             "lastName": "Egorov",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6066",
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PDEBK4"
+        },
+        {
+            "firstName": "Stanislav",
+            "lastName": "Stanislavskii",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7902",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFCY9"
         },
         {
             "firstName": "Stanley",
@@ -63067,8 +63895,8 @@
             "lastName": "hakmon",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-5943",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1PDDVC7"
         },
         {
@@ -63472,8 +64300,8 @@
             "lastName": "Nadler",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7568",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1PEG365"
         },
         {
@@ -63661,8 +64489,8 @@
             "lastName": "Huizer",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6451",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 19-07-2024",
             "fifaId": "1PDGSC7"
         },
         {
@@ -63997,6 +64825,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 30-06-2024",
             "fifaId": "1N233K9"
+        },
+        {
+            "firstName": "SULTAN",
+            "lastName": "ATUBO",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7920",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
+            "fifaId": "1PKJC30"
         },
         {
             "firstName": "sun",
@@ -64480,8 +65317,8 @@
             "lastName": "NAKAYAMA",
             "licenseStatus": "VALID",
             "licenseNumber": "202406-7586",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 21-07-2024",
             "fifaId": "1PGX196"
         },
         {
@@ -64597,8 +65434,8 @@
             "lastName": "Van Deyck",
             "licenseStatus": "VALID",
             "licenseNumber": "202309-3975",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N24ND0"
         },
         {
@@ -64885,8 +65722,8 @@
             "lastName": "Onifade",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6586",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 17-07-2024",
             "fifaId": "1PDI0H4"
         },
         {
@@ -65875,8 +66712,8 @@
             "lastName": "Kajja",
             "licenseStatus": "VALID",
             "licenseNumber": "202305-2032",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "1N21LH0"
         },
         {
@@ -66535,6 +67372,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N22EU5"
+        },
+        {
+            "firstName": "Trevor Tinashe",
+            "lastName": "Vomo",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7890",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKEIF4"
         },
         {
             "firstName": "Trimor",
@@ -67257,6 +68103,15 @@
             "fifaId": "1N210M0"
         },
         {
+            "firstName": "VALERII",
+            "lastName": "ILNITSKII",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7961",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 24-07-2024",
+            "fifaId": "1PL1DB3"
+        },
+        {
             "firstName": "Valerijus",
             "lastName": "Mizigurskis",
             "licenseStatus": "VALID",
@@ -67482,6 +68337,15 @@
             "fifaId": "1PFW6E9"
         },
         {
+            "firstName": "Viacheslav",
+            "lastName": "Sokolov",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7913",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1L1XZB8"
+        },
+        {
             "firstName": "Vicente",
             "lastName": "Martí",
             "licenseStatus": "VALID",
@@ -67531,8 +68395,8 @@
             "lastName": "ruá aguado",
             "licenseStatus": "VALID",
             "licenseNumber": "202308-3306",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 23-07-2024",
             "fifaId": "1N23BB0"
         },
         {
@@ -67579,6 +68443,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1PDG9F3"
+        },
+        {
+            "firstName": "Victor",
+            "lastName": "Ukpai",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7971",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PL85E4"
         },
         {
             "firstName": "Victor",
@@ -67675,8 +68548,8 @@
             "lastName": "ROLON",
             "licenseStatus": "VALID",
             "licenseNumber": "202407-7860",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 18-07-2024",
             "fifaId": "13ILEX1"
         },
         {
@@ -68238,6 +69111,15 @@
             "fifaId": "1PDEZM0"
         },
         {
+            "firstName": "VLADIMIR",
+            "lastName": "CHERNOBRIVYY",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7895",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKF9G0"
+        },
+        {
             "firstName": "Vladimir",
             "lastName": "Coev",
             "licenseStatus": "VALID",
@@ -68254,6 +69136,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N25I02"
+        },
+        {
+            "firstName": "Vladislav",
+            "lastName": "Gnilevskii",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7900",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKFBU0"
         },
         {
             "firstName": "Vlado",
@@ -68337,6 +69228,15 @@
             "fifaId": "1PDJQN9"
         },
         {
+            "firstName": "Wagane",
+            "lastName": "Ndour",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7977",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "18SLGH1"
+        },
+        {
             "firstName": "wahab",
             "lastName": "yefsah",
             "licenseStatus": "VALID",
@@ -68416,6 +69316,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 22-11-2023",
             "fifaId": "1N22X40"
+        },
+        {
+            "firstName": "Walter omar",
+            "lastName": "Tamer",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7935",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKL2B3"
         },
         {
             "firstName": "Wan",
@@ -68564,7 +69473,7 @@
         {
             "firstName": "Wilfried",
             "lastName": "Lango",
-            "licenseStatus": "SUSPENDED",
+            "licenseStatus": "VALID",
             "licenseNumber": "202305-1650",
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
@@ -69196,8 +70105,8 @@
             "lastName": "Bizzotto",
             "licenseStatus": "VALID",
             "licenseNumber": "202304-1344",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 22-07-2024",
             "fifaId": "1KRU1J5"
         },
         {
@@ -69394,8 +70303,8 @@
             "lastName": "Volovyk",
             "licenseStatus": "VALID",
             "licenseNumber": "202407-7777",
-            "authorisedMinors": false,
-            "authorisedMinorsMessage": "non authorized",
+            "authorisedMinors": true,
+            "authorisedMinorsMessage": "as of 20-07-2024",
             "fifaId": "1PIYNF5"
         },
         {
@@ -69823,6 +70732,15 @@
         },
         {
             "firstName": "Youssef",
+            "lastName": "El Koussa Mouawad",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7927",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKK4M7"
+        },
+        {
+            "firstName": "Youssef",
             "lastName": "Mazraoui",
             "licenseStatus": "VALID",
             "licenseNumber": "202405-6374",
@@ -69946,6 +70864,15 @@
             "authorisedMinors": false,
             "authorisedMinorsMessage": "non authorized",
             "fifaId": "1N24ZK5"
+        },
+        {
+            "firstName": "Yuliya",
+            "lastName": "Bogdanova",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7896",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "1PKF9V6"
         },
         {
             "firstName": "YUNFEI",
@@ -70171,6 +71098,15 @@
             "authorisedMinors": true,
             "authorisedMinorsMessage": "as of 28-01-2024",
             "fifaId": "1N1Z7J9"
+        },
+        {
+            "firstName": "Zac",
+            "lastName": "Brennan",
+            "licenseStatus": "VALID",
+            "licenseNumber": "202407-7981",
+            "authorisedMinors": false,
+            "authorisedMinorsMessage": "non authorized",
+            "fifaId": "19J0HG3"
         },
         {
             "firstName": "Zach",
@@ -70605,6 +71541,6 @@
             "fifaId": "1PFNUQ3"
         }
     ],
-    "totalElements": 7845,
+    "totalElements": 7949,
     "totalPages": 1
 }
